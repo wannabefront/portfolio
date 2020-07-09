@@ -1,0 +1,29 @@
+body
+{
+  background-color: #ffc4a3;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 2%
+}
+h1
+{
+  color: #bb596b;
+  font-size: 30px;
+}
+h2
+{
+  color: #bb596b;
+  text-align: center;
+}
+h3
+{
+  color: #bb596b;
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+}
