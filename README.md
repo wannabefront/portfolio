@@ -1,2 +1,0 @@
-# portfolio
-Jakub Ryś-portfolio
