@@ -1,0 +1,55 @@
+.headsite
+{
+    background-color: #ddf3f5;
+    text-align: center;
+}
+body
+{
+    font-family: 'Courgette';font-size: 24px;
+}
+.frontsite
+{
+    background-color: #a6dcef;
+    text-align: center;
+}
+.middlesite
+{
+    text-align: center;
+    background-color: #f2aaaa;
+
+}
+td
+{ 
+    padding: 50px;
+    border-spacing: 100px;
+    border-collapse: separate
+}
+h2
+{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.operatorkamery
+{
+    background-color: #e36387;
+}
+.footer
+{
+    font-size: 40px;
+    text-align: center;
+}
+button
+{
+    background-color: #ddf3f5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
